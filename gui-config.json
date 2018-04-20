@@ -1,0 +1,173 @@
+{
+"configs" : [
+  {
+"server" : "jp01.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "jp02.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "jp03.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "jp04.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "jp05.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "jp06.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "hk01.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "hk02.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "hk03.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "hk04.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "sg01.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "sg02.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "sg03.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "tw01.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "tw02.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "us01.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "us02.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "us03.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "au01.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "uk01.ipip.pm",
+"server_port" : 43966,
+"password" : "699913",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "us.ssip.club",
+"server_port" : 443,
+"password" : "87408751",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "jp.ssip.club",
+"server_port" : 23333,
+"password" : "16398104",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "usa.ssip.club",
+"server_port" : 443,
+"password" : "99233347",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+
+],
+"strategy" : null,
+"index" : 1,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false}
